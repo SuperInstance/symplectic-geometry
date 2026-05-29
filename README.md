@@ -245,3 +245,5 @@ symplectic-geometry = "0.1"
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
