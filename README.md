@@ -245,3 +245,12 @@ symplectic-geometry = "0.1"
 ## License
 
 MIT
+
+## Ecosystem Integration
+
+- Foundation for Hamiltonian and symplectic structure analysis in the SuperInstance ecosystem
+- Used by `symplectic-spin` for spin-system symplectic integrators
+- Feeds `constraint-hamiltonian` for constrained Hamiltonian dynamics
+- Integrates with `spectral-mechanics` for spectral-symplectic hybrid methods
+- Enables geometric mechanics approaches across the ecosystem
+
